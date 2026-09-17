@@ -1,0 +1,4 @@
+# Keep this directory in git. Ignore common OS/editor files
+.DS_Store
+*.py[cod]
+.idea/
